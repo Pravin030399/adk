@@ -2,7 +2,7 @@
     package="com.example.exelast">
      <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="exelast"
+        android:label="Deriv"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
